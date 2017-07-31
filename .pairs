@@ -1,3 +1,6 @@
-# .pairs 
-# <sp>: <Sean> <Prewitt>[; <lilathlete3@gmail.com>]
-# <nc>: <Nelly> <Cheruiyot>[; <nellycheruiyot@gmail.com>]
+pairs:
+  gh: Grace Hopper
+  jb: James Bond
+email:
+  gh: gracehopper@gmail.com
+  jb: bond@jamesbond.com
