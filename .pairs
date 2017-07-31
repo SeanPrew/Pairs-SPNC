@@ -1,6 +1,7 @@
-pairs:
+# <sp>: <Sean> <Prewitt>[; <lilathlete3@gmail.com>]
   sp: Sean Prewitt
   nc: Nelly Cheruiyot
 email:
   sp: lilathlete3@gmail.com
   nc: nellycheruiyot@gmail.com
+  no_solo_prefix: false
